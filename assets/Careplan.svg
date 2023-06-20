@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-Patient_Management_5">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="Patient_Management_5" data-name="Patient Management – 5" clip-path="url(#clip-Patient_Management_5)">
+    <g id="stethoscope" transform="translate(-67.352 6.383)">
+      <path id="Path_99874" data-name="Path 99874" d="M199.291,259.291v.329a1.317,1.317,0,1,1-2.633,0V256H196v3.62a2.034,2.034,0,0,0,.329,1.109,1.973,1.973,0,0,0,1.646.887,2,2,0,0,0,1.975-2v-.329Z" transform="translate(-117.367 -250.383)" fill="#00a99d"/>
+      <path id="Path_99876" data-name="Path 99876" d="M80.937,0h-.987V.658h.987a.329.329,0,0,1,.329.329v2a2.3,2.3,0,1,1-4.607,0v-2a.329.329,0,0,1,.329-.329h.987V0h-.987A.988.988,0,0,0,76,.987v2a2.962,2.962,0,1,0,5.924,0v-2A.988.988,0,0,0,80.937,0Z" fill="#00a99d"/>
+      <path id="Path_99878" data-name="Path 99878" d="M287.646,274.291a1.646,1.646,0,1,1,1.646-1.646A1.647,1.647,0,0,1,287.646,274.291Z" transform="translate(-205.393 -265.054)" fill="#79bf89"/>
+      <circle id="Ellipse_353" data-name="Ellipse 353" cx="1" cy="1" r="1" transform="translate(81.352 6.616)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

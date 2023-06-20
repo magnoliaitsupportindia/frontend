@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-Approved_Disable">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="Approved_Disable" data-name="Approved Disable" clip-path="url(#clip-Approved_Disable)">
+    <g id="Component_297" data-name="Component 297" transform="translate(-0.242 -0.49)">
+      <rect id="Rectangle_300" data-name="Rectangle 300" width="24" height="24" transform="translate(0.242)" fill="none"/>
+      <g id="Component_88" data-name="Component 88" transform="translate(0 0.49)">
+        <rect id="Rectangle_300-2" data-name="Rectangle 300" width="24" height="24" fill="none"/>
+        <g id="check-circle" transform="translate(3.787 3.591)">
+          <path id="Path_79" data-name="Path 79" d="M14.426,7.823v.59a6.392,6.392,0,0,1-4.451,6.148A6.118,6.118,0,0,1,3,11.9a6.581,6.581,0,0,1,.489-7.66,6.081,6.081,0,0,1,7.252-1.692" transform="translate(0 0)" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <path id="Path_80" data-name="Path 80" d="M20.232,5.457C17.732,7.959,12,14.01,12,14.01l-3-3" transform="translate(-3.574 -4.006)" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

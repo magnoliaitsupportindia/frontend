@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46.502" height="34" viewBox="0 0 46.502 34">
+  <g id="Group_5004" data-name="Group 5004" transform="translate(-405.54 -192.69)">
+    <g id="Group_4068" data-name="Group 4068" transform="translate(406.54 193)">
+      <rect id="Rectangle_7331" data-name="Rectangle 7331" width="19" height="10" transform="translate(12.714 23.69)" fill="#00a99d"/>
+      <rect id="Rectangle_7332" data-name="Rectangle 7332" width="19" height="10" transform="translate(12.714 11.69)" fill="#79bf89"/>
+      <rect id="Rectangle_7333" data-name="Rectangle 7333" width="19" height="10" transform="translate(12.714 -0.31)" fill="#00a99d"/>
+      <path id="Path_97604" data-name="Path 97604" d="M-2804.049-3335h-8.455v12.222h7.913" transform="translate(2812.504 3352.475)" fill="none" stroke="#00a99d" stroke-width="2"/>
+      <path id="Path_97605" data-name="Path 97605" d="M8.455,0H0V12.222H7.913" transform="translate(44.502 16.48) rotate(180)" fill="none" stroke="#79bf89" stroke-width="2"/>
+      <path id="Polygon_13" data-name="Polygon 13" d="M4.327,0,8.654,5.563H0Z" transform="translate(11.102 13.29) rotate(90)" fill="#00a99d"/>
+      <path id="Polygon_14" data-name="Polygon 14" d="M4.945,0,9.89,5.563H0Z" transform="translate(33.355 21.326) rotate(-90)" fill="#79bf89"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-Alert">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="Alert" clip-path="url(#clip-Alert)">
+    <path id="warning-symbol" d="M17.391,53.721l-7.2-11.246a1.623,1.623,0,0,0-2.734,0L.256,53.721a1.623,1.623,0,0,0,1.367,2.5h14.4a1.623,1.623,0,0,0,1.367-2.5ZM7.92,46.3a.9.9,0,0,1,1.791,0v3.841a.9.9,0,0,1-1.791,0V46.3ZM8.8,54.277a1.119,1.119,0,1,1,1.119-1.119A1.119,1.119,0,0,1,8.8,54.277Z" transform="translate(3.176 -36.973)" fill="#00a99d"/>
+  </g>
+</svg>

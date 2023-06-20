@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-Attendence">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="Attendence" clip-path="url(#clip-Attendence)">
+    <rect width="24" height="24" fill="#fff"/>
+    <g id="Component_62_21" data-name="Component 62 – 21" transform="translate(4 3)">
+      <path id="Path_98796" data-name="Path 98796" d="M19.422,20.436H4.578a1.014,1.014,0,0,1-1.014-1.014V4.578A1.014,1.014,0,0,1,4.578,3.564H19.422a1.014,1.014,0,0,1,1.014,1.014V19.422A1.014,1.014,0,0,1,19.422,20.436Z" transform="translate(-3.563 -2.235)" fill="#fff" stroke="#00a99d" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_74" data-name="Line 74" x1="16.873" transform="translate(0 4.768)" fill="#fff" stroke="#00a99d" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectangle_8549" data-name="Rectangle 8549" width="1.797" height="3.125" transform="translate(3.343)" fill="#fff" stroke="#00a99d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect id="Rectangle_8550" data-name="Rectangle 8550" width="1.797" height="3.125" transform="translate(12.093)" fill="#fff" stroke="#00a99d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect id="Rectangle_8551" data-name="Rectangle 8551" width="1.354" height="1.354" transform="translate(2.312 6.708)" fill="#00a99d"/>
+      <rect id="Rectangle_8552" data-name="Rectangle 8552" width="1.354" height="1.354" transform="translate(5.206 6.708)" fill="#00a99d"/>
+      <rect id="Rectangle_8553" data-name="Rectangle 8553" width="1.354" height="1.354" transform="translate(8.101 6.708)" fill="#00a99d"/>
+      <rect id="Rectangle_8554" data-name="Rectangle 8554" width="1.354" height="1.354" transform="translate(10.995 6.708)" fill="#00a99d"/>
+      <rect id="Rectangle_8555" data-name="Rectangle 8555" width="1.354" height="1.354" transform="translate(13.89 6.708)" fill="#00a99d"/>
+      <rect id="Rectangle_8556" data-name="Rectangle 8556" width="1.354" height="1.354" transform="translate(2.312 10.088)" fill="#00a99d"/>
+      <rect id="Rectangle_8557" data-name="Rectangle 8557" width="1.354" height="1.354" transform="translate(5.206 10.088)" fill="#00a99d"/>
+      <rect id="Rectangle_8558" data-name="Rectangle 8558" width="1.354" height="1.354" transform="translate(8.101 10.088)" fill="#00a99d"/>
+      <rect id="Rectangle_8559" data-name="Rectangle 8559" width="1.354" height="1.354" transform="translate(10.995 10.088)" fill="#00a99d"/>
+      <rect id="Rectangle_8560" data-name="Rectangle 8560" width="1.354" height="1.354" transform="translate(13.89 10.088)" fill="#00a99d"/>
+      <rect id="Rectangle_8561" data-name="Rectangle 8561" width="1.354" height="1.354" transform="translate(2.312 13.05)" fill="#00a99d"/>
+      <rect id="Rectangle_8562" data-name="Rectangle 8562" width="1.354" height="1.354" transform="translate(5.206 13.05)" fill="#00a99d"/>
+    </g>
+  </g>
+</svg>
